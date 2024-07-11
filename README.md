@@ -2,6 +2,10 @@
 
 Welcome to the Bite Buddie Dialogflow project repository! This project utilizes Dialogflow to create a chatbot for handling food delivery orders. Below, you'll find information on how to set up and use the project.
 
+![Screenshot 2024-07-11 182407](https://github.com/Saniya-fatima/Bite-Buddie/assets/122198174/2d83d3bf-0f17-4d1f-bd67-007356317504)
+
+![Screenshot 2024-07-11 182421](https://github.com/Saniya-fatima/Bite-Buddie/assets/122198174/f1ae1612-6b5c-478e-8695-9efbddeb69ed)
+
 ## Intents
 
 This project includes several intents designed to manage food orders and tracking:
